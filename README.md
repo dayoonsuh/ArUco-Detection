@@ -11,7 +11,7 @@ This repository contains a Python-based implementation for live detection of ArU
 
 ## Demo
 
-![Live ArUco Marker Detection](aruco_detection_demo.gif)
+![Live ArUco Marker Detection]([aruco_detection_demo.gif](https://github.com/dayoonsuh/ArUco-Detection/blob/main/aruco_detection_demo.gif))
 
 ## Dependencies
 ```
